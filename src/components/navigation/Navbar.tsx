@@ -336,7 +336,7 @@ export default function Navbar() {
             }
             className="font-extrabold !text-white lg:hidden"
           >
-            PA Polewali
+            PENGADILAN 
           </Link>
 
           {/* ============================== */}
