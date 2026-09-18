@@ -93,7 +93,7 @@ export default function Footer() {
                 />
 
                 <span>
-                  (0428) 21018
+                  (000) 21018
                 </span>
               </div>
 
