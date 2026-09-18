@@ -176,7 +176,7 @@ export default function DetailLayananHukum() {
               </p>
 
               <Link
-                to="/ptsp/verifikasi"
+                to="/ptsp/verifikasi/ajukan"
                 className="mt-5 inline-flex items-center gap-2 text-sm font-bold text-[#116530]"
               >
                 Buka PTSP Online

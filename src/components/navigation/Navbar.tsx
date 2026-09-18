@@ -98,10 +98,7 @@ const menuItems: MenuItem[] = [
   {
     label: 'PTSP Online',
     children: [
-      {
-        label: 'Verifikasi Berkas Online',
-        path: '/ptsp/verifikasi',
-      },
+     
       {
         label: 'Ajukan Verifikasi',
         path: '/ptsp/verifikasi/ajukan',
