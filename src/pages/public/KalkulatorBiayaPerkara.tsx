@@ -254,7 +254,7 @@ export default function KalkulatorBiayaPerkara() {
           </p>
 
           <h1 className="mt-3 text-4xl font-extrabold leading-tight text-[#17201b] lg:text-5xl">
-            Kalkulator Panjar
+           Panjar
             Biaya Perkara
           </h1>
 

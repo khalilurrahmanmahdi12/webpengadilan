@@ -198,7 +198,7 @@ export default function DetailLayananHukum() {
                   Pada Step 14C
                   halaman ini akan
                   dilengkapi
-                  Kalkulator Panjar
+                  Panjar
                   Biaya Perkara.
                 </p>
               </div>
